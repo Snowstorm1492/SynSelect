@@ -98,3 +98,18 @@ bash python run.py \
     --work-dir ./output \
     --api-nproc 64
 ```
+
+## 📚 Citation
+If this work is helpful, please kindly cite as:
+
+```
+@misc{wang2025trainingmultimodallargereasoning,
+      title={Training Multimodal Large Reasoning Models Needs Better Thoughts: A Three-Stage Framework for Long Chain-of-Thought Synthesis and Selection}, 
+      author={Yizhi Wang and Linan Yue and Min-Ling Zhang},
+      year={2025},
+      eprint={2512.18956},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.18956}, 
+}
+```
